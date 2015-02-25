@@ -42,6 +42,7 @@
 					$scope.currentRecord = RestAngular.copy(record);
 					this.editMode = true;
 				};
+        
 			}
 			;
 			return {
